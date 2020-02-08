@@ -7,9 +7,9 @@
 # Eduardo Henrique Geraldo
 <sub>*Future Data Analyst* </sub>
 
-I'm physicist and I have some experiences as oilfield data operator, where I've worked as mlwd (monitoring real data from field). I have learned to adapt quickly with new technologies, solving problem in high pressure environments.I combine analytical and soft skills. I have spending some last years to improve my knowledge on Artificial Inteligence, Machine Learning, Deep learning, Big Data analysis to solve real problems on my master thesis, I developed a critical thinking and problem-solving skills.
+I'm physicist at (UNESP) and I have some experiences in oilfield as 'data operator', where I worked as mlwd (monitoring real data from drilling field). I have learned to adapt quickly with new technologies, solving problem in high pressure environments. I combine analytical and soft skills. I have spending some last years to improve my knowledge on Artificial Inteligence, Machine Learning, Deep learning, Big Data analysis to solve real problems on my master thesis, I developed a critical thinking and problems.
 
-I'm a Master's degree student at University of Campinas (UNICAMP), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Strategic Project Management from the University of Campinas (UNICAMP).
+I'm a Master's degree student at University of Campinas (UNICAMP), and a MBA in Strategic Project Management from the University of Campinas (UNICAMP).
 
 **Background in:** Python, R, Matlab, Machine Learning, Deep learning, Statistics and Mathematical Optimisation.
 
