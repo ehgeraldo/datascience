@@ -14,7 +14,7 @@ I'm a Master's degree student at University of Campinas (UNICAMP), an institutio
 **Background in:** Python, R, Matlab, Machine Learning, Deep learning, Statistics and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
+
 * [LinkedIn](https://www.linkedin.com/in/mlwdfieldengineer)
 * [Medium](https://www.medium.com)
 
