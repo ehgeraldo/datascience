@@ -19,6 +19,12 @@ I'm a Master's degree student at University of Campinas (UNICAMP), and a MBA in 
 * [Medium](https://www.medium.com)
 
 
+**Projetos:**
+
+
+
+
+
 ---
 
 
