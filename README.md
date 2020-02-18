@@ -21,6 +21,9 @@ I'm a Master's degree student at University of Campinas (UNICAMP), and a MBA in 
 
 **Projetos:**
 
+* Ánalise da ação da empresa do setor elétrico Taesa TEE11: http://bit.ly/2V4ZrsS
+
+
 
 
 
