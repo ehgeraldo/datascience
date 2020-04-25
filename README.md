@@ -24,7 +24,7 @@ I'm a Master's degree student at University of Campinas (UNICAMP), and a MBA in 
 * Ánalise da ação da empresa do setor elétrico Taesa TEE11: http://bit.ly/2V4ZrsS
 * Ánalise de dados do superbowl em 2020: http://bit.ly/3acMpOA
 * Ánalise da ação do setor elétrico Engie Brasil: https://bit.ly/3a7ZYio
-* Ánalise de banco de dados do Covid_virus :https://bit.ly/2KBxSkB
+* Ánalise de banco de dados do Covid_virus: https://bit.ly/2KBxSkB
 
 
 
