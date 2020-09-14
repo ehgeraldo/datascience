@@ -26,7 +26,7 @@ I'm a Master's degree student at University of Campinas (UNICAMP), and a MBA in 
 * Análise da ação do setor elétrico Engie Brasil: https://bit.ly/3a7ZYio
 * Análise de banco de dados do Covid_virus: https://bit.ly/2KBxSkB,
 * Análise de banco de dados de acidentes na região de Campinas-SP: https://bit.ly/2V2rk4d
-* Análise de banco de dados de preços de automóveis com previsão de preços através de regressão linear: https://bit.ly/2ZCsl5g
+* Previsão de preços de automóveis através de regressão linear: https://bit.ly/2ZCsl5g
 
 
 
