@@ -27,6 +27,7 @@ I'm a Master's degree student at University of Campinas (UNICAMP), and a MBA in 
 * Análise de banco de dados do Covid_virus: https://bit.ly/2KBxSkB,
 * Análise de banco de dados de acidentes na região de Campinas-SP: https://bit.ly/2V2rk4d
 * Previsão de preços de automóveis através de regressão linear: https://bit.ly/2ZCsl5g
+* Análise do banco de dados Rossmann Stores Sales (Kaggle): https://bit.ly/3xr5vNj
 
 
 
