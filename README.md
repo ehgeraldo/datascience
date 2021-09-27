@@ -15,7 +15,7 @@ I'm a Master's degree student at University of Campinas (UNICAMP), and a MBA in 
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/mlwdfieldengineer)
+* [LinkedIn](https://www.linkedin.com/in/analystdatascientist/)
 * [Medium](https://www.medium.com)
 
 
